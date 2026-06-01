@@ -1,2 +1,7 @@
-# demo-escribania-morello-gonzalez
-Demo web para Escribanía Morello Gonzalez — diseñada por eterlab.
+# Escribanía Morello Gonzalez
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
